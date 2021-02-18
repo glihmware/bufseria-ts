@@ -1,0 +1,21 @@
+{
+  "name": "bufseria",
+  "version": "1.0.0",
+  "description": "Binary format serialization",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glihmware/bufseria-ts.git"
+  },
+  "keywords": [],
+  "author": "gliwmare",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glihmware/bufseria-ts/issues"
+  },
+  "homepage": "https://github.com/glihmware/bufseria-ts#readme"
+}
